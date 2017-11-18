@@ -1,0 +1,1 @@
+Repository to store SQL learning artifacts :)
